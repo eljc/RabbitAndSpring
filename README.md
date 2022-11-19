@@ -1,2 +1,4 @@
 # RabbitAndSpring
-RabbitMQ and Spring Boot
+Java 11
+SpringBoot
+RabbitMQ
